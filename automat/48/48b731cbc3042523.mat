@@ -1,0 +1,13 @@
+effect : "eut2.particle.over.rfx" {
+	diffuse : { 1.000000 , 1.000000 , 1.000000 }
+	luminance_night : 0.000000
+	luminance_output : 0.000000
+	texture : "texture_base" {
+		source : "/asset/particles/anim_cargo/c_sprites/dl_animal_food_m_01.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+		u_address : clamp
+		v_address : clamp
+	}
+}

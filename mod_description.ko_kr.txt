@@ -1,32 +1,33 @@
 ﻿[blue]서기 ETS2 안개등 모든 트럭
-1.49 부터 정상 작동합니다
+1.53 부터 정상 작동합니다
 
 [red]내 모드는 창작마당에만 올려집니다.
 다른 사이트에서 내 모드를 찾아도 지원하지 않습니다.[normal]
 
 
-전조등 켜면, 안개등이 작동합니다
+상향등 켜면, 안개등이 작동합니다
 
-scania.s_2016 scania.r_2016
-scania.r scania.streamline
+daf.xf	 전조등, 상향등
+daf.xf_euro6
 
-volvo.fh16_2012
-volvo.fh16
+daf.2021(xf)
+daf.xd
+
+iveco.hiway	 전조등, 상향등
+iveco.stralis	 전조등, 상향등
+
+man.tgx	 전조등, 상향등
+man.tgx_euro6	 전조등, 상향등
+man.tgx_2020
 
 mercedes.actros2014
 mercedes.actros
 
-man.tgx_euro6
-man.tgx
-man.tgx_2020
-
-daf.xf_euro6
-daf.xf
-
-daf.2021
-daf.xd
-
-iveco.hiway
-iveco.stralis
-
 renault.magnum
+(renault.t 기본 전조등 으로 있습니다 - 기본2 dlc4)
+
+scania.s_2016 scania.r_2016
+scania.r scania.streamline
+
+volvo.fh16	 전조등, 상향등
+volvo.fh16_2012	 전조등, 상향등

@@ -5,6 +5,9 @@ localization_db : .localization
 	key[]: "small"
 	val[]: "소"
 
+	key[]: "medium"
+	val[]: "중"
+
 	key[]: "big"
 	val[]: "대"
 
