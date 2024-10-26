@@ -1,0 +1,32 @@
+﻿[blue]Seogi ETS2 Fog Lights All Truck
+It will function normally from 1.49
+
+[red]My mod is only hosted in the workshop.
+If you find my mod on other sites, we do not support it.[normal]
+
+
+When you turn on the headlights, the fog lights work.
+
+scania.s_2016 scania.r_2016
+scania.r scania.streamline
+
+volvo.fh16_2012
+volvo.fh16
+
+mercedes.actros2014
+mercedes.actros
+
+man.tgx_euro6
+man.tgx
+man.tgx_2020
+
+daf.xf_euro6
+daf.xf
+
+daf.2021
+daf.xd
+
+iveco.hiway
+iveco.stralis
+
+renault.magnum

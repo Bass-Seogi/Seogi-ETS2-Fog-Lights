@@ -1,0 +1,16 @@
+material : "eut2.dif.spec.weight.add.env.tsnmap.a.rfx" {
+	texture[0] : "/vehicle/truck/daf_2021/catwalk_c.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/daf_2021/catwalk_nmp.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/material/environment/fuzzy_reflection/fuzzy_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.556529 , 0.556529 , 0.556529 }
+	env_factor : { 1 , 1 , 1 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shininess : 30
+	specular : { 0.957215 , 0.957215 , 0.957215 }
+	queue_bias : 1
+}

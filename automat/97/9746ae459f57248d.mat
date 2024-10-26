@@ -1,0 +1,16 @@
+material : "eut2.dif.spec.weight.add.env.tsnmap.a.rfx" {
+	texture[0] : "/vehicle/truck/daf_xd/f_mask_top_c.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/soft_reflection/soft_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	texture[2] : "/vehicle/truck/daf_xd/f_mask_top_nmp.tobj"
+	texture_name[2] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.796869 , 0.796869 , 0.796869 }
+	env_factor : { 0.0619978 , 0.0619978 , 0.0619978 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shininess : 30
+	specular : { 0.176495 , 0.176495 , 0.176495 }
+	queue_bias : 1
+}
